@@ -1,0 +1,26 @@
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: rgb(2, 2, 83);
+    background-color: rgb(177, 226, 43);
+    border-style: double;color: brown;
+}
+nav{
+    font-size: larger;
+}
+article{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    color: yellow;
+    border-style: double;color: brown;
+}
+aside{
+    background-color: coral;
+    border-style: double;color: yellow;
+    display: inline-block;
+    text-align: calc(larger);
+}
+footer{
+    background-color: teal;
+    border-style: double;color: rgb(2, 2, 83);
+}
